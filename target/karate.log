@@ -1,0 +1,1129 @@
+20:47:41.021 [main] INFO  com.intuit.karate.Runner - using system property 'karate.env': cert
+20:47:41.369 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+20:47:42.111 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  cert 
+20:47:42.361 [main] DEBUG com.intuit.karate - request:
+1 > POST https://fakestoreapi.com/users
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 92
+1 > Host: fakestoreapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+1 > Accept-Encoding: gzip,deflate
+{"username":"JoelSaavedra12","email":"joelsaavedra@gmail.com","password":"Tuntuntunsahur12"}
+
+20:47:51.724 [main] DEBUG com.intuit.karate - response time in milliseconds: 9361
+1 < 200
+1 < Date: Thu, 19 Jun 2025 01:47:51 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 9
+1 < Connection: keep-alive
+1 < Cf-Ray: 951f5c280d494089-MIA
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"9-hVv0cNJophUD7CGn+ZqXp8tVGo0"
+1 < X-Powered-By: Express
+1 < Cf-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=j8oMROS%2BRwqtzODT4pqz2gAaMU1vLpGzycPfD56zy0NCrjUKn25xI1yLRcH6dviRYwWVoVcILKxfDLIIoxIhF2aCmZ6Bo%2FilLdXeTfPUJgd4gaDVfu%2FtBdkqqYY5AK6Ot%2Fgu"}],"group":"cf-nel","max_age":604800}
+1 < Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < alt-svc: h3=":443"; ma=86400
+1 < server-timing: cfL4;desc="?proto=TCP&rtt=127078&min_rtt=126051&rtt_var=37483&sent=6&recv=7&lost=0&retrans=0&sent_bytes=3127&recv_bytes=925&delivery_rate=32521&cwnd=33&unsent_bytes=0&cid=8c21902f6118439d&ts=9034&x=0"
+{"id":11}
+
+20:47:51.727 [main] INFO  com.intuit.karate - [print] {
+  "id": 11
+}
+ 
+20:47:51.742 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  cert 
+20:47:51.747 [main] DEBUG com.intuit.karate - request:
+1 > POST https://fakestoreapi.com/users
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 95
+1 > Host: fakestoreapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+1 > Accept-Encoding: gzip,deflate
+{"username":"JoseTolentinoAA","email":"josetolentino@hotmail.com","password":"TeAmoPeru12345."}
+
+20:47:52.715 [main] DEBUG com.intuit.karate - response time in milliseconds: 966
+1 < 200
+1 < Date: Thu, 19 Jun 2025 01:47:52 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 9
+1 < Connection: keep-alive
+1 < Cf-Ray: 951f5c620a011648-MIA
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"9-hVv0cNJophUD7CGn+ZqXp8tVGo0"
+1 < X-Powered-By: Express
+1 < Cf-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=%2B2rOmSwoMJXljoRgJ22MAdU8Pzq0R34ohSiepp9qfSMZg4iGS2uYReqvg9JkJk0rpaT8NlUiZOIBo7eQzGDN2ndoMA0f%2BeNP%2BT7danm42o0T%2FvYHZj2p%2BPc7IEUGBJr1El1h"}],"group":"cf-nel","max_age":604800}
+1 < Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < alt-svc: h3=":443"; ma=86400
+1 < server-timing: cfL4;desc="?proto=TCP&rtt=128033&min_rtt=128033&rtt_var=48013&sent=4&recv=6&lost=0&retrans=0&sent_bytes=219&recv_bytes=1375&delivery_rate=11340&cwnd=31&unsent_bytes=0&cid=9a5067af4a5e31d7&ts=705&x=0"
+{"id":11}
+
+20:47:52.716 [main] INFO  com.intuit.karate - [print] {
+  "id": 11
+}
+ 
+20:47:52.731 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  cert 
+20:47:52.735 [main] DEBUG com.intuit.karate - request:
+1 > POST https://fakestoreapi.com/users
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 96
+1 > Host: fakestoreapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+1 > Accept-Encoding: gzip,deflate
+{"username":"TralaleroTralala","email":"tralaleroia@yahoo.com","password":"BallerinaCapuccina@"}
+
+20:47:53.626 [main] DEBUG com.intuit.karate - response time in milliseconds: 891
+1 < 200
+1 < Date: Thu, 19 Jun 2025 01:47:53 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 9
+1 < Connection: keep-alive
+1 < Cf-Ray: 951f5c683cab45f2-MIA
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"9-hVv0cNJophUD7CGn+ZqXp8tVGo0"
+1 < X-Powered-By: Express
+1 < Cf-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=qh%2FcC9E1kwGUz66vmm%2Bhk3w2yifvFX11UThq3TrOjn78Epcu51A2UHkiMP0wb35sIu7fWrWUXbsqMN7x00u6fZGeCOQbcYIWBkmSqDK1mSZSToEmhsigGfT4JIT43HRlparE"}],"group":"cf-nel","max_age":604800}
+1 < Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < alt-svc: h3=":443"; ma=86400
+1 < server-timing: cfL4;desc="?proto=TCP&rtt=128864&min_rtt=128422&rtt_var=49043&sent=4&recv=6&lost=0&retrans=0&sent_bytes=219&recv_bytes=1376&delivery_rate=11003&cwnd=31&unsent_bytes=0&cid=899258b7389c6295&ts=624&x=0"
+{"id":11}
+
+20:47:53.628 [main] INFO  com.intuit.karate - [print] {
+  "id": 11
+}
+ 
+22:06:18.114 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+22:06:18.868 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  null 
+22:06:19.117 [main] DEBUG com.intuit.karate - request:
+1 > POST https://fakestoreapi.com/users
+1 > Host: fakestoreapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+1 > Accept-Encoding: gzip,deflate
+
+
+22:06:20.247 [main] DEBUG com.intuit.karate - response time in milliseconds: 1128
+1 < 200
+1 < Date: Thu, 19 Jun 2025 03:06:20 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 8
+1 < Connection: keep-alive
+1 < Cf-Ray: 951fcf4f5e470228-GRU
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"8-h5EdGu1QmHe4OkjsU292jNzSLfE"
+1 < X-Powered-By: Express
+1 < Cf-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=WNe5FodmcgyczUIJ%2BHNJWT9MtqwondQcYuGkXf9ar44oTEooFy%2BAWstBoZxKq63ynhasB6qX%2FyV2%2BjSUJd9VYtpi50cuUasZboyyIt6yiYyIH7Px0xsaBhRBg%2BZwUCbzK%2Bkb"}],"group":"cf-nel","max_age":604800}
+1 < Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < alt-svc: h3=":443"; ma=86400
+1 < server-timing: cfL4;desc="?proto=TCP&rtt=91466&min_rtt=90446&rtt_var=27474&sent=7&recv=7&lost=0&retrans=0&sent_bytes=3127&recv_bytes=766&delivery_rate=44202&cwnd=244&unsent_bytes=0&cid=e0e9772a6b83255e&ts=861&x=0"
+{"id":1}
+
+22:06:20.253 [main] INFO  com.intuit.karate - [print] {
+  "id": 1
+}
+ 
+22:06:20.258 [main] ERROR com.intuit.karate - classpath:BDD/API_Fakestore/Users/PostUser.feature:28
+Then status 400
+status code was: 200, expected: 400, response time in milliseconds: 1128, url: https://fakestoreapi.com/users, response: 
+{"id":1}
+classpath:BDD/API_Fakestore/Users/PostUser.feature:28
+22:06:20.284 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  null 
+22:06:20.316 [main] DEBUG com.intuit.karate - request:
+1 > POST https://fakestoreapi.com
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 25
+1 > Host: fakestoreapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+1 > Accept-Encoding: gzip,deflate
+{"username":"JoelElPapi"}
+
+22:06:21.222 [main] DEBUG com.intuit.karate - response time in milliseconds: 905
+1 < 404
+1 < Date: Thu, 19 Jun 2025 03:06:21 GMT
+1 < Content-Type: text/html; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Access-Control-Allow-Origin: *
+1 < Content-Security-Policy: default-src 'none'
+1 < X-Content-Type-Options: nosniff
+1 < X-Powered-By: Express
+1 < Cf-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=1pQCCSpfWEpraMSflURTFXkkJ4CD8yr2HGcBUOQA5SCpFwT7njnjtwPKlRg1C8QkT8PHTXww9avAqmI8FELRo%2BLsEcfZWS%2Fbkvuv%2B22fk10Zvb%2FgIOyVJH6V8%2FZlHvXg204q"}],"group":"cf-nel","max_age":604800}
+1 < Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < Cf-Ray: 951fcf561a870199-GRU
+1 < alt-svc: h3=":443"; ma=86400
+1 < server-timing: cfL4;desc="?proto=TCP&rtt=91105&min_rtt=91021&rtt_var=34302&sent=4&recv=6&lost=0&retrans=0&sent_bytes=219&recv_bytes=1300&delivery_rate=15834&cwnd=184&unsent_bytes=0&cid=ad5e92f4a5ea2c06&ts=709&x=0"
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /</pre>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'951fcf561a870199',t:'MTc1MDMwMjM4MS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+
+22:06:21.223 [main] INFO  com.intuit.karate - [print] <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /</pre>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'951fcf561a870199',t:'MTc1MDMwMjM4MS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+ 
+22:06:21.223 [main] ERROR com.intuit.karate - classpath:BDD/API_Fakestore/Users/PostUser.feature:36
+Then status 400
+status code was: 404, expected: 400, response time in milliseconds: 905, url: https://fakestoreapi.com, response: 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /</pre>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'951fcf561a870199',t:'MTc1MDMwMjM4MS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+classpath:BDD/API_Fakestore/Users/PostUser.feature:36
+22:06:21.232 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  null 
+22:06:21.236 [main] DEBUG com.intuit.karate - request:
+1 > POST https://fakestoreapi.com/users
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 135
+1 > Host: fakestoreapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+1 > Accept-Encoding: gzip,deflate
+{"username":"AAAAAAAAAAAAJoelSaavedra12","email":"saaaaaaaaaaaaaaaaa@gmail.com1111111111111111","password":"mascaaaaaaaaaaaaapooooooo"}
+
+22:06:22.227 [main] DEBUG com.intuit.karate - response time in milliseconds: 990
+1 < 200
+1 < Date: Thu, 19 Jun 2025 03:06:22 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 8
+1 < Connection: keep-alive
+1 < Cf-Ray: 951fcf5bca05bf10-GRU
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"8-h5EdGu1QmHe4OkjsU292jNzSLfE"
+1 < X-Powered-By: Express
+1 < Cf-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=BwgDSIfhdjZZW2f9dSH%2BBEXhl46wHOu%2BX9ud0WLtEZgyZlh4ylz7VxJCLeAyPaEBp%2ByBi3KHslD3EZdp0HtSxOD9gCpVUHO1MhPbqCVC0H71RHkNKkLfjQv6rL41kyfDiOlJ"}],"group":"cf-nel","max_age":604800}
+1 < Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < alt-svc: h3=":443"; ma=86400
+1 < server-timing: cfL4;desc="?proto=TCP&rtt=87993&min_rtt=87892&rtt_var=33162&sent=4&recv=6&lost=0&retrans=0&sent_bytes=219&recv_bytes=1416&delivery_rate=16369&cwnd=153&unsent_bytes=0&cid=8eedeecb9efed650&ts=809&x=0"
+{"id":1}
+
+22:06:22.232 [main] INFO  com.intuit.karate - [print] {
+  "id": 1
+}
+ 
+22:06:22.233 [main] ERROR com.intuit.karate - classpath:BDD/API_Fakestore/Users/PostUser.feature:45
+Then status 400
+status code was: 200, expected: 400, response time in milliseconds: 990, url: https://fakestoreapi.com/users, response: 
+{"id":1}
+classpath:BDD/API_Fakestore/Users/PostUser.feature:45
+22:10:04.197 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+22:10:04.918 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  null 
+22:10:05.148 [main] DEBUG com.intuit.karate - request:
+1 > POST https://fakestoreapi.com/users
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 92
+1 > Host: fakestoreapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+1 > Accept-Encoding: gzip,deflate
+{"username":"JoelSaavedra12","email":"joelsaavedra@gmail.com","password":"Tuntuntunsahur12"}
+
+22:10:05.912 [main] DEBUG com.intuit.karate - response time in milliseconds: 762
+1 < 200
+1 < Date: Thu, 19 Jun 2025 03:10:05 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 8
+1 < Connection: keep-alive
+1 < Cf-Ray: 951fd4d428e9a4f0-GRU
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"8-h5EdGu1QmHe4OkjsU292jNzSLfE"
+1 < X-Powered-By: Express
+1 < Cf-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=vYvdZIJ8u9QqisVOdE8vK%2FCTaPUN4UZGlNhaEBZ6MMrvJGhgOu%2B8AUdOMQQQYaxcJcEoqiSH8gcazZQa6byOeI6QBc18xIJMEUdw9qThR87Xh5C9S9upWa4Z7JZoobx4gUzd"}],"group":"cf-nel","max_age":604800}
+1 < Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < alt-svc: h3=":443"; ma=86400
+1 < server-timing: cfL4;desc="?proto=TCP&rtt=92378&min_rtt=90144&rtt_var=28167&sent=6&recv=7&lost=0&retrans=0&sent_bytes=3128&recv_bytes=925&delivery_rate=43512&cwnd=125&unsent_bytes=0&cid=22a77f959a82de70&ts=480&x=0"
+{"id":1}
+
+22:10:05.916 [main] INFO  com.intuit.karate - [print] {
+  "id": 1
+}
+ 
+22:10:05.932 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  null 
+22:10:05.936 [main] DEBUG com.intuit.karate - request:
+1 > POST https://fakestoreapi.com/users
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 95
+1 > Host: fakestoreapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+1 > Accept-Encoding: gzip,deflate
+{"username":"JoseTolentinoAA","email":"josetolentino@hotmail.com","password":"TeAmoPeru12345."}
+
+22:10:06.952 [main] DEBUG com.intuit.karate - response time in milliseconds: 1015
+1 < 200
+1 < Date: Thu, 19 Jun 2025 03:10:06 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 8
+1 < Connection: keep-alive
+1 < Cf-Ray: 951fd4d82f0277ea-GRU
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"8-h5EdGu1QmHe4OkjsU292jNzSLfE"
+1 < X-Powered-By: Express
+1 < Cf-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=csub9sBOzFydoQQszGR8BL1kYeg2Fbf1JeT3lQ1DiJvIgbyqIHv%2BiyXladtNZJ0YXEVk2yvNJUmlX87DZ3IUoGGY4WOosA%2Fc61ScnQeGHr9IkNFn0MdB1qpYenwfyQc2DpLd"}],"group":"cf-nel","max_age":604800}
+1 < Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < alt-svc: h3=":443"; ma=86400
+1 < server-timing: cfL4;desc="?proto=TCP&rtt=90058&min_rtt=90019&rtt_var=33835&sent=4&recv=6&lost=0&retrans=0&sent_bytes=219&recv_bytes=1375&delivery_rate=16074&cwnd=242&unsent_bytes=0&cid=95c72de20605db48&ts=828&x=0"
+{"id":1}
+
+22:10:06.954 [main] INFO  com.intuit.karate - [print] {
+  "id": 1
+}
+ 
+22:10:06.960 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  null 
+22:10:06.963 [main] DEBUG com.intuit.karate - request:
+1 > POST https://fakestoreapi.com/users
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 96
+1 > Host: fakestoreapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+1 > Accept-Encoding: gzip,deflate
+{"username":"TralaleroTralala","email":"tralaleroia@yahoo.com","password":"BallerinaCapuccina@"}
+
+22:10:07.556 [main] DEBUG com.intuit.karate - response time in milliseconds: 592
+1 < 200
+1 < Date: Thu, 19 Jun 2025 03:10:07 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 8
+1 < Connection: keep-alive
+1 < Cf-Ray: 951fd4de9d0601a7-GRU
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"8-h5EdGu1QmHe4OkjsU292jNzSLfE"
+1 < X-Powered-By: Express
+1 < Cf-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=nxSuCZjxpBFVnCqmm9PPwgBTPVGRyBhZlylMKL5%2FEjvxpzLjdZwiy6422g67eoEVfuK2vIHGKztfgvQs7rdBANvX32KQE0MBO%2BAGqLTT5k0CTpjDwQY9RudVd7kDw49lwSpA"}],"group":"cf-nel","max_age":604800}
+1 < Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < alt-svc: h3=":443"; ma=86400
+1 < server-timing: cfL4;desc="?proto=TCP&rtt=91044&min_rtt=90969&rtt_var=34167&sent=4&recv=6&lost=0&retrans=0&sent_bytes=219&recv_bytes=1376&delivery_rate=15961&cwnd=142&unsent_bytes=0&cid=a48e4d66bcbfed22&ts=404&x=0"
+{"id":1}
+
+22:10:07.557 [main] INFO  com.intuit.karate - [print] {
+  "id": 1
+}
+ 
+22:12:49.529 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+22:12:50.265 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  null 
+22:12:50.488 [main] DEBUG com.intuit.karate - request:
+1 > POST https://fakestoreapi.com/users
+1 > Host: fakestoreapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+1 > Accept-Encoding: gzip,deflate
+
+
+22:12:51.196 [main] DEBUG com.intuit.karate - response time in milliseconds: 706
+1 < 200
+1 < Date: Thu, 19 Jun 2025 03:12:51 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 9
+1 < Connection: keep-alive
+1 < Cf-Ray: 951fd8dd4e8d01a1-GRU
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"9-hVv0cNJophUD7CGn+ZqXp8tVGo0"
+1 < X-Powered-By: Express
+1 < Cf-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=WauAlm1j%2B3nJQwQfIuj3sld0xwfjmMH%2FXfz1fj%2BA80q2EquJ1iSw3%2BHeHcQL6pRjgowFp3nDxqSvF7aON5MMrnmWrfaxFTln%2FvyiDhqKiYgfW86CcrUA3w3jvIyi4pRvZW8j"}],"group":"cf-nel","max_age":604800}
+1 < Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < alt-svc: h3=":443"; ma=86400
+1 < server-timing: cfL4;desc="?proto=TCP&rtt=91177&min_rtt=89199&rtt_var=27410&sent=7&recv=7&lost=0&retrans=0&sent_bytes=3127&recv_bytes=766&delivery_rate=44808&cwnd=246&unsent_bytes=0&cid=a23d41d3b84e434c&ts=459&x=0"
+{"id":11}
+
+22:12:51.201 [main] INFO  com.intuit.karate - [print] {
+  "id": 11
+}
+ 
+22:12:51.207 [main] ERROR com.intuit.karate - classpath:BDD/API_Fakestore/Users/PostUser.feature:28
+Then status 400
+status code was: 200, expected: 400, response time in milliseconds: 706, url: https://fakestoreapi.com/users, response: 
+{"id":11}
+classpath:BDD/API_Fakestore/Users/PostUser.feature:28
+22:12:51.232 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  null 
+22:12:51.260 [main] DEBUG com.intuit.karate - request:
+1 > POST https://fakestoreapi.com
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 25
+1 > Host: fakestoreapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+1 > Accept-Encoding: gzip,deflate
+{"username":"JoelElPapi"}
+
+22:12:52.160 [main] DEBUG com.intuit.karate - response time in milliseconds: 900
+1 < 404
+1 < Date: Thu, 19 Jun 2025 03:12:52 GMT
+1 < Content-Type: text/html; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Access-Control-Allow-Origin: *
+1 < Content-Security-Policy: default-src 'none'
+1 < X-Content-Type-Options: nosniff
+1 < X-Powered-By: Express
+1 < Cf-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=CWnqF68Vz0CXjNLotYf5RMGXLDkwSIswh1HzXxRYVEuYY%2BYJiGdq%2FbFGqE%2FAiENumy9Swuz%2FD2CYvlHSaqVw4D5S9Pr8xnHKDwhQlJhuuJGXMz5cDRH3psYjIME9o57aiPKk"}],"group":"cf-nel","max_age":604800}
+1 < Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < Cf-Ray: 951fd8e17f94030d-GRU
+1 < alt-svc: h3=":443"; ma=86400
+1 < server-timing: cfL4;desc="?proto=TCP&rtt=90571&min_rtt=90476&rtt_var=34118&sent=4&recv=6&lost=0&retrans=0&sent_bytes=219&recv_bytes=1300&delivery_rate=15914&cwnd=168&unsent_bytes=0&cid=9907b98ee91dfa38&ts=711&x=0"
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /</pre>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'951fd8e17f94030d',t:'MTc1MDMwMjc3Mi4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+
+22:12:52.161 [main] INFO  com.intuit.karate - [print] <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /</pre>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'951fd8e17f94030d',t:'MTc1MDMwMjc3Mi4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+ 
+22:12:52.162 [main] ERROR com.intuit.karate - classpath:BDD/API_Fakestore/Users/PostUser.feature:36
+Then status 400
+status code was: 404, expected: 400, response time in milliseconds: 900, url: https://fakestoreapi.com, response: 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /</pre>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'951fd8e17f94030d',t:'MTc1MDMwMjc3Mi4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+classpath:BDD/API_Fakestore/Users/PostUser.feature:36
+22:12:52.169 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  null 
+22:12:52.173 [main] DEBUG com.intuit.karate - request:
+1 > POST https://fakestoreapi.com/users
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 135
+1 > Host: fakestoreapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+1 > Accept-Encoding: gzip,deflate
+{"username":"AAAAAAAAAAAAJoelSaavedra12","email":"saaaaaaaaaaaaaaaaa@gmail.com1111111111111111","password":"mascaaaaaaaaaaaaapooooooo"}
+
+22:12:53.186 [main] DEBUG com.intuit.karate - response time in milliseconds: 1013
+1 < 200
+1 < Date: Thu, 19 Jun 2025 03:12:53 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 8
+1 < Connection: keep-alive
+1 < Cf-Ray: 951fd8e72d2f0195-GRU
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"8-h5EdGu1QmHe4OkjsU292jNzSLfE"
+1 < X-Powered-By: Express
+1 < Cf-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=fQewyyb8QSwTopjOuKcn0OvCoaqA9E%2Fvm6chLa2%2B32xwPMd1KEBVKVPRDw2s4pJMFKcxqN1JGTvidb%2FoYPke1461HJRUXbG%2FCTiBWuFX4fhlXN0mUh9ZFXPNhAKGFYHuFxqO"}],"group":"cf-nel","max_age":604800}
+1 < Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < alt-svc: h3=":443"; ma=86400
+1 < server-timing: cfL4;desc="?proto=TCP&rtt=86990&min_rtt=86506&rtt_var=33409&sent=4&recv=6&lost=0&retrans=0&sent_bytes=219&recv_bytes=1416&delivery_rate=16064&cwnd=168&unsent_bytes=0&cid=e29443c5f148049e&ts=831&x=0"
+{"id":1}
+
+22:12:53.188 [main] INFO  com.intuit.karate - [print] {
+  "id": 1
+}
+ 
+22:12:53.188 [main] ERROR com.intuit.karate - classpath:BDD/API_Fakestore/Users/PostUser.feature:45
+Then status 400
+status code was: 200, expected: 400, response time in milliseconds: 1013, url: https://fakestoreapi.com/users, response: 
+{"id":1}
+classpath:BDD/API_Fakestore/Users/PostUser.feature:45
+23:10:19.116 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+23:10:19.857 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  null 
+23:10:20.106 [main] DEBUG com.intuit.karate - request:
+1 > POST https://fakestoreapi.com/users
+1 > Host: fakestoreapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+1 > Accept-Encoding: gzip,deflate
+
+
+23:10:22.507 [main] DEBUG com.intuit.karate - response time in milliseconds: 2399
+1 < 200
+1 < Date: Thu, 19 Jun 2025 04:10:22 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 8
+1 < Connection: keep-alive
+1 < Cf-Ray: 95202d1d2fb43012-EZE
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"8-h5EdGu1QmHe4OkjsU292jNzSLfE"
+1 < X-Powered-By: Express
+1 < Cf-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=jolPRWQ%2FDPl8vbXRp8DQsphGBrUvHq2fFYM%2FXAdpqO0m1didmRiCmktNr%2FHHmzyN6Q6VqOSZoX6qvGhWebsCWtk1pxLLGH0SyVrN%2Fe%2F6Cf6Fiw64cJOMmp2ENzZHBfJrWJhi"}],"group":"cf-nel","max_age":604800}
+1 < Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < alt-svc: h3=":443"; ma=86400
+1 < server-timing: cfL4;desc="?proto=TCP&rtt=57470&min_rtt=57470&rtt_var=28735&sent=8&recv=7&lost=0&retrans=2&sent_bytes=3352&recv_bytes=766&delivery_rate=4044&cwnd=180&unsent_bytes=0&cid=cfe61b6a99dec81e&ts=1209&x=0"
+{"id":1}
+
+23:10:22.512 [main] INFO  com.intuit.karate - [print] {
+  "id": 1
+}
+ 
+23:10:22.518 [main] ERROR com.intuit.karate - classpath:BDD/API_Fakestore/Users/PostUser.feature:28
+Then status 400
+status code was: 200, expected: 400, response time in milliseconds: 2399, url: https://fakestoreapi.com/users, response: 
+{"id":1}
+classpath:BDD/API_Fakestore/Users/PostUser.feature:28
+23:10:22.541 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  null 
+23:10:22.548 [main] ERROR com.intuit.karate - classpath:BDD/API_Fakestore/Users/PostUser.feature:34
+When request {"username": }
+net.minidev.json.parser.ParseException: Unexpected character (}) at position 13.
+classpath:BDD/API_Fakestore/Users/PostUser.feature:34
+23:18:04.976 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+23:18:05.723 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  null 
+23:18:05.969 [main] DEBUG com.intuit.karate - request:
+1 > POST https://fakestoreapi.com/users
+1 > Host: fakestoreapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+1 > Accept-Encoding: gzip,deflate
+
+
+23:18:07.161 [main] DEBUG com.intuit.karate - response time in milliseconds: 1190
+1 < 200
+1 < Date: Thu, 19 Jun 2025 04:18:07 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 8
+1 < Connection: keep-alive
+1 < Cf-Ray: 95203874fd671eb9-EZE
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"8-h5EdGu1QmHe4OkjsU292jNzSLfE"
+1 < X-Powered-By: Express
+1 < Cf-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=kGYAcJhWcAoNAB%2Brq3cJG53zGAaKNE4eTWbROXsgI0IF1Jt4q8kYIaUyKblIcGgB%2BxBJdzTYEx%2B%2B9er31ZOTkIBDzhTUhdVz%2FN5wSLT6gmnCBhrax2nzirZosz4hIEbZ%2BYff"}],"group":"cf-nel","max_age":604800}
+1 < Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < alt-svc: h3=":443"; ma=86400
+1 < server-timing: cfL4;desc="?proto=TCP&rtt=59964&min_rtt=59702&rtt_var=22575&sent=6&recv=8&lost=0&retrans=1&sent_bytes=4579&recv_bytes=766&delivery_rate=18814&cwnd=252&unsent_bytes=0&cid=6a3567708a7b74bc&ts=1005&x=0"
+{"id":1}
+
+23:18:07.167 [main] INFO  com.intuit.karate - [print] {
+  "id": 1
+}
+ 
+23:18:07.173 [main] ERROR com.intuit.karate - classpath:BDD/API_Fakestore/Users/PostUser.feature:28
+Then status 400
+status code was: 200, expected: 400, response time in milliseconds: 1190, url: https://fakestoreapi.com/users, response: 
+{"id":1}
+classpath:BDD/API_Fakestore/Users/PostUser.feature:28
+23:18:07.196 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  null 
+23:18:07.228 [main] DEBUG com.intuit.karate - request:
+1 > POST https://fakestoreapi.com/users
+1 > Content-Type: text/plain; charset=UTF-8
+1 > Content-Length: 14
+1 > Host: fakestoreapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+1 > Accept-Encoding: gzip,deflate
+{"username": }
+
+23:18:08.244 [main] DEBUG com.intuit.karate - response time in milliseconds: 1015
+1 < 200
+1 < Date: Thu, 19 Jun 2025 04:18:08 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 9
+1 < Connection: keep-alive
+1 < Cf-Ray: 9520387bde6cd7ef-EZE
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"9-hVv0cNJophUD7CGn+ZqXp8tVGo0"
+1 < X-Powered-By: Express
+1 < Cf-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=6ul0oWT8ve8ggSyysUlXVeQ5NhuiLqozc7cHP3OjleSHdNnJWPv%2BrzqDb7CUJxUpaldaGphbeeUbXQgyXciGcPFYBUG3o3%2FDL0p8dW%2F5%2BFJRG%2FKCiAQ%2BjOc8ATSl5MxIUf%2Bn"}],"group":"cf-nel","max_age":604800}
+1 < Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < alt-svc: h3=":443"; ma=86400
+1 < server-timing: cfL4;desc="?proto=TCP&rtt=62203&min_rtt=61961&rtt_var=23408&sent=4&recv=6&lost=0&retrans=0&sent_bytes=219&recv_bytes=1288&delivery_rate=23434&cwnd=170&unsent_bytes=0&cid=1d9332830c77ae57&ts=885&x=0"
+{"id":11}
+
+23:18:08.246 [main] INFO  com.intuit.karate - [print] {
+  "id": 11
+}
+ 
+23:18:08.246 [main] ERROR com.intuit.karate - classpath:BDD/API_Fakestore/Users/PostUser.feature:37
+Then status 400
+status code was: 200, expected: 400, response time in milliseconds: 1015, url: https://fakestoreapi.com/users, response: 
+{"id":11}
+classpath:BDD/API_Fakestore/Users/PostUser.feature:37
+23:19:53.217 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+23:19:53.965 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  null 
+23:19:54.192 [main] DEBUG com.intuit.karate - request:
+1 > POST https://fakestoreapi.com/users
+1 > Host: fakestoreapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+1 > Accept-Encoding: gzip,deflate
+
+
+23:19:55.314 [main] DEBUG com.intuit.karate - response time in milliseconds: 1119
+1 < 200
+1 < Date: Thu, 19 Jun 2025 04:19:55 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 9
+1 < Connection: keep-alive
+1 < Cf-Ray: 95203b18fc941ea2-EZE
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"9-hVv0cNJophUD7CGn+ZqXp8tVGo0"
+1 < X-Powered-By: Express
+1 < Cf-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=vZlkIh%2BidaBBptpzAgpQmdSiPY2V0tnnvalRia2%2Bv7KubaKNGS3mLcFGiQl%2F1cyu%2F6J08WWyB3dv9PS%2Fgx5qjg3q3IYj336gLmKoRolKNxn9p38mKL%2F4Jr0VGLH%2FF7ypo359"}],"group":"cf-nel","max_age":604800}
+1 < Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < alt-svc: h3=":443"; ma=86400
+1 < server-timing: cfL4;desc="?proto=TCP&rtt=62959&min_rtt=60940&rtt_var=19158&sent=6&recv=7&lost=0&retrans=0&sent_bytes=3128&recv_bytes=766&delivery_rate=64591&cwnd=252&unsent_bytes=0&cid=945994a3d7b67d2a&ts=934&x=0"
+{"id":11}
+
+23:19:55.320 [main] INFO  com.intuit.karate - [print] {
+  "id": 11
+}
+ 
+23:19:55.327 [main] ERROR com.intuit.karate - classpath:BDD/API_Fakestore/Users/PostUser.feature:28
+Then status 400
+status code was: 200, expected: 400, response time in milliseconds: 1119, url: https://fakestoreapi.com/users, response: 
+{"id":11}
+classpath:BDD/API_Fakestore/Users/PostUser.feature:28
+23:19:55.356 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  null 
+23:19:55.387 [main] DEBUG com.intuit.karate - request:
+1 > POST https://fakestoreapi.com/users
+1 > Content-Type: text/plain; charset=UTF-8
+1 > Content-Length: 14
+1 > Host: fakestoreapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+1 > Accept-Encoding: gzip,deflate
+{"username": }
+
+23:19:56.415 [main] DEBUG com.intuit.karate - response time in milliseconds: 1028
+1 < 200
+1 < Date: Thu, 19 Jun 2025 04:19:56 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Content-Length: 8
+1 < Connection: keep-alive
+1 < Cf-Ray: 95203b1fde06202c-EZE
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"8-h5EdGu1QmHe4OkjsU292jNzSLfE"
+1 < X-Powered-By: Express
+1 < Cf-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Me1arhJqZNhrmZf1WypwB3J7fzANB3RLbUkT6Vr7%2BSEldXCF3qrywFgnNaWEWM5ijlk0ypYV2wWlvykTL53urj2aX%2FDIFWdFBoHjfj8IC5h9AgrYi32%2FUGAaga1QLf0RFsdJ"}],"group":"cf-nel","max_age":604800}
+1 < Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < alt-svc: h3=":443"; ma=86400
+1 < server-timing: cfL4;desc="?proto=TCP&rtt=61206&min_rtt=60979&rtt_var=23321&sent=4&recv=6&lost=0&retrans=0&sent_bytes=219&recv_bytes=1288&delivery_rate=23122&cwnd=250&unsent_bytes=0&cid=9a66c33dc1516854&ts=898&x=0"
+{"id":1}
+
+23:19:56.416 [main] INFO  com.intuit.karate - [print] {
+  "id": 1
+}
+ 
+23:19:56.417 [main] ERROR com.intuit.karate - classpath:BDD/API_Fakestore/Users/PostUser.feature:37
+Then status 400
+status code was: 200, expected: 400, response time in milliseconds: 1028, url: https://fakestoreapi.com/users, response: 
+{"id":1}
+classpath:BDD/API_Fakestore/Users/PostUser.feature:37
+23:30:16.046 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+23:30:16.794 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  null 
+23:30:17.008 [main] ERROR com.intuit.karate - org.apache.http.ProtocolException: Target host is not specified, http call failed after 186 milliseconds for url: /products/155
+23:30:17.010 [main] ERROR com.intuit.karate - classpath:BDD/API_Fakestore/Products/GetProducts.feature:25
+When method Get
+http call failed after 186 milliseconds for url: /products/155
+org.apache.http.ProtocolException: Target host is not specified
+classpath:BDD/API_Fakestore/Products/GetProducts.feature:25
+23:32:45.953 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+23:32:46.730 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  null 
+23:32:46.908 [main] ERROR com.intuit.karate - org.apache.http.ProtocolException: Target host is not specified, http call failed after 150 milliseconds for url: /products/155
+23:32:46.908 [main] ERROR com.intuit.karate - classpath:BDD/API_Fakestore/Products/GetProducts.feature:25
+When method GET
+http call failed after 150 milliseconds for url: /products/155
+org.apache.http.ProtocolException: Target host is not specified
+classpath:BDD/API_Fakestore/Products/GetProducts.feature:25
+23:35:21.189 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+23:35:21.963 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  null 
+23:35:22.192 [main] DEBUG com.intuit.karate - request:
+1 > POST https://fakestoreapi.com/auth/login
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 52
+1 > Host: fakestoreapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+1 > Accept-Encoding: gzip,deflate
+{"username":"Turroni12","password":"Bombardini@12."}
+
+23:35:23.370 [main] DEBUG com.intuit.karate - response time in milliseconds: 1176
+1 < 401
+1 < Date: Thu, 19 Jun 2025 04:35:23 GMT
+1 < Content-Type: text/html; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cf-Ray: 952051c1498d1e7b-EZE
+1 < Access-Control-Allow-Origin: *
+1 < X-Powered-By: Express
+1 < Cf-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=2UN3nUx15CtPPrZHIdl6Qcwcl5Ytw5g0%2FoUz2oJeYknoIk%2FLEn3%2BJXrnnOFvtTfTf%2BVd8WRM3m5%2Bh%2B7VczylvCJJ646ay%2FQEKJLb100o2822HKDQV9Rb0gK1KoAjQ0e87Ckf"}],"group":"cf-nel","max_age":604800}
+1 < Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < alt-svc: h3=":443"; ma=86400
+1 < server-timing: cfL4;desc="?proto=TCP&rtt=61759&min_rtt=60897&rtt_var=18765&sent=6&recv=7&lost=0&retrans=0&sent_bytes=3127&recv_bytes=890&delivery_rate=64646&cwnd=252&unsent_bytes=0&cid=451637c8cb3f32d0&ts=938&x=0"
+username or password is incorrect
+
+23:35:23.374 [main] INFO  com.intuit.karate - [print] username or password is incorrect 
+23:35:23.388 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  null 
+23:35:23.392 [main] DEBUG com.intuit.karate - request:
+1 > POST https://fakestoreapi.com/auth/login
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 29
+1 > Host: fakestoreapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+1 > Accept-Encoding: gzip,deflate
+{"username":"","password":""}
+
+23:35:24.324 [main] DEBUG com.intuit.karate - response time in milliseconds: 931
+1 < 400
+1 < Date: Thu, 19 Jun 2025 04:35:24 GMT
+1 < Content-Type: text/html; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Cf-Ray: 952051c7df301e98-EZE
+1 < Access-Control-Allow-Origin: *
+1 < X-Powered-By: Express
+1 < Cf-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Mos8oKh%2BNDfRhHmZP8GjGNt6mUsyJfMrsNeC1CUuZzrceFFJFnuBPw%2FugsZOrvfR0uZDTF1tU7oySfR4eRxGe5ywzOjyR3LX7jA92oYuP4BrCSzna7Mu%2B76o3MG6aQoXqCUf"}],"group":"cf-nel","max_age":604800}
+1 < Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < alt-svc: h3=":443"; ma=86400
+1 < server-timing: cfL4;desc="?proto=TCP&rtt=62522&min_rtt=62472&rtt_var=23527&sent=4&recv=6&lost=0&retrans=0&sent_bytes=219&recv_bytes=1314&delivery_rate=23093&cwnd=250&unsent_bytes=0&cid=1de6a401a9fbd752&ts=799&x=0"
+username and password are not provided in JSON format
+
+23:35:24.326 [main] INFO  com.intuit.karate - [print] username and password are not provided in JSON format 
+23:37:22.241 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+23:37:22.993 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  null 
+23:37:23.189 [main] DEBUG com.intuit.karate - request:
+1 > GET https://fakestoreapi.com/carts
+1 > Host: fakestoreapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+1 > Accept-Encoding: gzip,deflate
+
+
+23:37:24.320 [main] DEBUG com.intuit.karate - response time in milliseconds: 1128
+1 < 200
+1 < Date: Thu, 19 Jun 2025 04:37:24 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"3a8-j3C8983spvK8GpaSYa+SyYlAS2A"
+1 < X-Powered-By: Express
+1 < Cf-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=xSDq6J9g03qqTv8j1hLPr4Zgq%2FjocbvHNcLfzOXVUq%2B%2BIno6V%2FrdNhCAdvGPM%2Fj53BHkofLnj3yqxF2JW1E5iEZB5e0Gb9AASEWorjicOQiZqB2dV7IcHpj05irbgZzp%2B09x"}],"group":"cf-nel","max_age":604800}
+1 < Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < Cf-Ray: 952054b5396ca789-EZE
+1 < alt-svc: h3=":443"; ma=86400
+1 < server-timing: cfL4;desc="?proto=TCP&rtt=62322&min_rtt=60808&rtt_var=19275&sent=6&recv=7&lost=0&retrans=0&sent_bytes=3128&recv_bytes=765&delivery_rate=63287&cwnd=252&unsent_bytes=0&cid=8475c580f36d5953&ts=938&x=0"
+[{"id":1,"userId":1,"date":"2020-03-02T00:00:00.000Z","products":[{"productId":1,"quantity":4},{"productId":2,"quantity":1},{"productId":3,"quantity":6}],"__v":0},{"id":2,"userId":1,"date":"2020-01-02T00:00:00.000Z","products":[{"productId":2,"quantity":4},{"productId":1,"quantity":10},{"productId":5,"quantity":2}],"__v":0},{"id":3,"userId":2,"date":"2020-03-01T00:00:00.000Z","products":[{"productId":1,"quantity":2},{"productId":9,"quantity":1}],"__v":0},{"id":4,"userId":3,"date":"2020-01-01T00:00:00.000Z","products":[{"productId":1,"quantity":4}],"__v":0},{"id":5,"userId":3,"date":"2020-03-01T00:00:00.000Z","products":[{"productId":7,"quantity":1},{"productId":8,"quantity":1}],"__v":0},{"id":6,"userId":4,"date":"2020-03-01T00:00:00.000Z","products":[{"productId":10,"quantity":2},{"productId":12,"quantity":3}],"__v":0},{"id":7,"userId":8,"date":"2020-03-01T00:00:00.000Z","products":[{"productId":18,"quantity":1}],"__v":0}]
+
+23:37:24.340 [main] INFO  com.intuit.karate - [print] [
+  {
+    "id": 1,
+    "userId": 1,
+    "date": "2020-03-02T00:00:00.000Z",
+    "products": [
+      {
+        "productId": 1,
+        "quantity": 4
+      },
+      {
+        "productId": 2,
+        "quantity": 1
+      },
+      {
+        "productId": 3,
+        "quantity": 6
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "date": "2020-01-02T00:00:00.000Z",
+    "products": [
+      {
+        "productId": 2,
+        "quantity": 4
+      },
+      {
+        "productId": 1,
+        "quantity": 10
+      },
+      {
+        "productId": 5,
+        "quantity": 2
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "id": 3,
+    "userId": 2,
+    "date": "2020-03-01T00:00:00.000Z",
+    "products": [
+      {
+        "productId": 1,
+        "quantity": 2
+      },
+      {
+        "productId": 9,
+        "quantity": 1
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "id": 4,
+    "userId": 3,
+    "date": "2020-01-01T00:00:00.000Z",
+    "products": [
+      {
+        "productId": 1,
+        "quantity": 4
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "id": 5,
+    "userId": 3,
+    "date": "2020-03-01T00:00:00.000Z",
+    "products": [
+      {
+        "productId": 7,
+        "quantity": 1
+      },
+      {
+        "productId": 8,
+        "quantity": 1
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "id": 6,
+    "userId": 4,
+    "date": "2020-03-01T00:00:00.000Z",
+    "products": [
+      {
+        "productId": 10,
+        "quantity": 2
+      },
+      {
+        "productId": 12,
+        "quantity": 3
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "id": 7,
+    "userId": 8,
+    "date": "2020-03-01T00:00:00.000Z",
+    "products": [
+      {
+        "productId": 18,
+        "quantity": 1
+      }
+    ],
+    "__v": 0
+  }
+]
+ 
+23:37:24.356 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  null 
+23:37:24.358 [main] DEBUG com.intuit.karate - request:
+1 > GET https://fakestoreapi.com/carts/2
+1 > Host: fakestoreapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+1 > Accept-Encoding: gzip,deflate
+
+
+23:37:25.418 [main] DEBUG com.intuit.karate - response time in milliseconds: 1060
+1 < 200
+1 < Date: Thu, 19 Jun 2025 04:37:25 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"a2-iVKAFZNDVn5u19OI7Bz+kha8xjg"
+1 < X-Powered-By: Express
+1 < Cf-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=YI2coPL2kSdxetdgvajQe08QG1kX%2FrYmaxMkF2C66LM1otWqKcpurXcjEYZpeUItgfKFXBJtJ1NprOAqKiUSDn%2Bf8x2TEvlV7JVUeLL24dumYxopTJuSAoayHWildSLNY03X"}],"group":"cf-nel","max_age":604800}
+1 < Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < Cf-Ray: 952054bbdcbc1eba-EZE
+1 < alt-svc: h3=":443"; ma=86400
+1 < server-timing: cfL4;desc="?proto=TCP&rtt=59133&min_rtt=59003&rtt_var=22388&sent=4&recv=6&lost=0&retrans=0&sent_bytes=219&recv_bytes=1214&delivery_rate=24179&cwnd=250&unsent_bytes=0&cid=9857542a41ac6af7&ts=934&x=0"
+{"id":2,"userId":1,"date":"2020-01-02T00:00:00.000Z","products":[{"productId":2,"quantity":4},{"productId":1,"quantity":10},{"productId":5,"quantity":2}],"__v":0}
+
+23:37:25.424 [main] ERROR com.intuit.karate - classpath:BDD/API_Fakestore/Carts/GetCarts.feature:19
+And match response.id==2
+syntax error, expected '==' for match
+classpath:BDD/API_Fakestore/Carts/GetCarts.feature:19
+23:37:25.442 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  null 
+23:37:25.446 [main] ERROR com.intuit.karate - org.apache.http.ProtocolException: Target host is not specified, http call failed after 0 milliseconds for url: /carts/aaa
+23:37:25.447 [main] ERROR com.intuit.karate - classpath:BDD/API_Fakestore/Carts/GetCarts.feature:26
+When method GET
+http call failed after 0 milliseconds for url: /carts/aaa
+org.apache.http.ProtocolException: Target host is not specified
+classpath:BDD/API_Fakestore/Carts/GetCarts.feature:26
+23:39:10.518 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+23:39:11.247 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  null 
+23:39:11.440 [main] DEBUG com.intuit.karate - request:
+1 > GET https://fakestoreapi.com/carts
+1 > Host: fakestoreapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+1 > Accept-Encoding: gzip,deflate
+
+
+23:39:12.544 [main] DEBUG com.intuit.karate - response time in milliseconds: 1100
+1 < 200
+1 < Date: Thu, 19 Jun 2025 04:39:12 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"3a8-j3C8983spvK8GpaSYa+SyYlAS2A"
+1 < X-Powered-By: Express
+1 < Cf-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=mkH1IBCpKFU1ro8n%2Bq8TWOmsCSuuxifq9dbM9FsX29zazsQDHJqqLOweVGG5ru2z6GyVm1RapZ3%2BaXccj5f4R0SMT6jbjGGmEmpdDA8Un5mMPxnljPo4T%2FxW8vlsOg%2F9Xqob"}],"group":"cf-nel","max_age":604800}
+1 < Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < Cf-Ray: 95205759b8d61e7b-EZE
+1 < alt-svc: h3=":443"; ma=86400
+1 < server-timing: cfL4;desc="?proto=TCP&rtt=60329&min_rtt=58073&rtt_var=19685&sent=6&recv=7&lost=0&retrans=0&sent_bytes=3127&recv_bytes=765&delivery_rate=61722&cwnd=252&unsent_bytes=0&cid=7d9417e5b7b5ac51&ts=923&x=0"
+[{"id":1,"userId":1,"date":"2020-03-02T00:00:00.000Z","products":[{"productId":1,"quantity":4},{"productId":2,"quantity":1},{"productId":3,"quantity":6}],"__v":0},{"id":2,"userId":1,"date":"2020-01-02T00:00:00.000Z","products":[{"productId":2,"quantity":4},{"productId":1,"quantity":10},{"productId":5,"quantity":2}],"__v":0},{"id":3,"userId":2,"date":"2020-03-01T00:00:00.000Z","products":[{"productId":1,"quantity":2},{"productId":9,"quantity":1}],"__v":0},{"id":4,"userId":3,"date":"2020-01-01T00:00:00.000Z","products":[{"productId":1,"quantity":4}],"__v":0},{"id":5,"userId":3,"date":"2020-03-01T00:00:00.000Z","products":[{"productId":7,"quantity":1},{"productId":8,"quantity":1}],"__v":0},{"id":6,"userId":4,"date":"2020-03-01T00:00:00.000Z","products":[{"productId":10,"quantity":2},{"productId":12,"quantity":3}],"__v":0},{"id":7,"userId":8,"date":"2020-03-01T00:00:00.000Z","products":[{"productId":18,"quantity":1}],"__v":0}]
+
+23:39:12.565 [main] INFO  com.intuit.karate - [print] [
+  {
+    "id": 1,
+    "userId": 1,
+    "date": "2020-03-02T00:00:00.000Z",
+    "products": [
+      {
+        "productId": 1,
+        "quantity": 4
+      },
+      {
+        "productId": 2,
+        "quantity": 1
+      },
+      {
+        "productId": 3,
+        "quantity": 6
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "date": "2020-01-02T00:00:00.000Z",
+    "products": [
+      {
+        "productId": 2,
+        "quantity": 4
+      },
+      {
+        "productId": 1,
+        "quantity": 10
+      },
+      {
+        "productId": 5,
+        "quantity": 2
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "id": 3,
+    "userId": 2,
+    "date": "2020-03-01T00:00:00.000Z",
+    "products": [
+      {
+        "productId": 1,
+        "quantity": 2
+      },
+      {
+        "productId": 9,
+        "quantity": 1
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "id": 4,
+    "userId": 3,
+    "date": "2020-01-01T00:00:00.000Z",
+    "products": [
+      {
+        "productId": 1,
+        "quantity": 4
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "id": 5,
+    "userId": 3,
+    "date": "2020-03-01T00:00:00.000Z",
+    "products": [
+      {
+        "productId": 7,
+        "quantity": 1
+      },
+      {
+        "productId": 8,
+        "quantity": 1
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "id": 6,
+    "userId": 4,
+    "date": "2020-03-01T00:00:00.000Z",
+    "products": [
+      {
+        "productId": 10,
+        "quantity": 2
+      },
+      {
+        "productId": 12,
+        "quantity": 3
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "id": 7,
+    "userId": 8,
+    "date": "2020-03-01T00:00:00.000Z",
+    "products": [
+      {
+        "productId": 18,
+        "quantity": 1
+      }
+    ],
+    "__v": 0
+  }
+]
+ 
+23:39:12.578 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  null 
+23:39:12.580 [main] DEBUG com.intuit.karate - request:
+1 > GET https://fakestoreapi.com/carts/2
+1 > Host: fakestoreapi.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+1 > Accept-Encoding: gzip,deflate
+
+
+23:39:13.592 [main] DEBUG com.intuit.karate - response time in milliseconds: 1009
+1 < 200
+1 < Date: Thu, 19 Jun 2025 04:39:13 GMT
+1 < Content-Type: application/json; charset=utf-8
+1 < Transfer-Encoding: chunked
+1 < Connection: keep-alive
+1 < Access-Control-Allow-Origin: *
+1 < Etag: W/"a2-iVKAFZNDVn5u19OI7Bz+kha8xjg"
+1 < X-Powered-By: Express
+1 < Cf-Cache-Status: DYNAMIC
+1 < Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=KMf1E1IgHHQFhBz2g3ISFQy%2BoQmFjuSA8phICpRVHYdtumtAKV2NlM3C3zO6gxE7kYdmjenlYBAUpZOikxBprXWmb7abnry9CNQ6Cjmn5hAQe8YZYnGVPhgQxgVqbcLEx4iA"}],"group":"cf-nel","max_age":604800}
+1 < Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+1 < Server: cloudflare
+1 < Cf-Ray: 952057603b123012-EZE
+1 < alt-svc: h3=":443"; ma=86400
+1 < server-timing: cfL4;desc="?proto=TCP&rtt=59409&min_rtt=58975&rtt_var=22425&sent=4&recv=6&lost=0&retrans=0&sent_bytes=219&recv_bytes=1214&delivery_rate=24620&cwnd=178&unsent_bytes=0&cid=7a0684776390bfe8&ts=885&x=0"
+{"id":2,"userId":1,"date":"2020-01-02T00:00:00.000Z","products":[{"productId":2,"quantity":4},{"productId":1,"quantity":10},{"productId":5,"quantity":2}],"__v":0}
+
+23:39:13.595 [main] INFO  com.intuit.karate - [print] {
+  "id": 2,
+  "userId": 1,
+  "date": "2020-01-02T00:00:00.000Z",
+  "products": [
+    {
+      "productId": 2,
+      "quantity": 4
+    },
+    {
+      "productId": 1,
+      "quantity": 10
+    },
+    {
+      "productId": 5,
+      "quantity": 2
+    }
+  ],
+  "__v": 0
+}
+ 
+23:39:13.601 [main] INFO  com.intuit.karate - Se realiza la ejecución en ambiente:  null 
+23:39:13.605 [main] ERROR com.intuit.karate - org.apache.http.ProtocolException: Target host is not specified, http call failed after 1 milliseconds for url: /carts/aaa
+23:39:13.606 [main] ERROR com.intuit.karate - classpath:BDD/API_Fakestore/Carts/GetCarts.feature:25
+When method GET
+http call failed after 1 milliseconds for url: /carts/aaa
+org.apache.http.ProtocolException: Target host is not specified
+classpath:BDD/API_Fakestore/Carts/GetCarts.feature:25
